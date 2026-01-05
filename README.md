@@ -1,4 +1,4 @@
 # ananya-demo
 This is my first Git Repositary. 
 <br>
-Author - Ananya Adhikary
+Author - Ananya (ananya-demo)
